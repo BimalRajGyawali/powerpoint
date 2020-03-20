@@ -1,0 +1,164 @@
+.name-section-wrapper
+{
+  border-bottom: 1px solid #D3D3D3;
+  padding: 3px 10px 3px 30px;
+}
+
+.name-section
+{
+
+   width: 40%;
+   float: left;
+
+}
+
+.mode
+{
+  width: 15%;
+  float: right;
+}
+
+.logo
+{
+
+  height: 50px;
+  width: 50px;
+  float: left;
+
+}
+
+.filename
+{
+  padding: 2px 4px 2px 4px;
+  width: auto;
+  float: left;
+  line-height: 50px;
+  /* should be equal to height of image so set from js */
+}
+
+
+.toolbar-wrapper
+{
+  border-bottom: 1px solid #D3D3D3;
+  padding: 10px 10px 10px 50px;
+}
+
+.container
+{
+
+  padding-right: 50px;
+}
+.slide
+{
+  padding-top: 5px;
+  background: white;
+  margin-right: 5px;
+}
+
+.slide-active
+{
+  background: #ca8d42;
+}
+
+.right-sidebar-wrapper
+{
+  width: 18%;
+  float: left;
+  height: 500px;
+  overflow-y: auto;
+  box-shadow: 1px 1px 0px #D3D3D3;
+
+}
+.slide-num
+{
+  margin-left: 16px;
+}
+
+.slide-preview-box
+{
+  background: white;
+}
+
+.main-section-wrapper
+{
+  width: 81.9%;
+  float: right;
+  height: 500px;
+  background: 	#F8F8F8;
+  box-shadow: 1px 1px 0px #D3D3D3;
+
+}
+
+.slide-num
+{
+
+  width: 10%;
+  float: left;
+
+
+}
+.slide-preview
+{
+  width: 80%;
+  float: left;
+}
+
+.slide-preview-box
+{
+  border:1px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.preview-text
+{
+  text-align: center;
+  line-height: 90px;
+}
+
+.section
+{
+
+  height: 90%;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  background: white;
+  outline: 2px solid #D3D3D3;
+  position: relative;
+}
+
+.layout-wrapper
+{
+
+}
+.title-box
+{
+  width: 90%;
+  position: absolute;
+  top:10%;
+  left: 5%;
+  outline: 1px solid #d3d3d3;
+  height: 20%;
+  font-size: 42px;
+  font-weight: bold;
+  text-align: center;
+  font-family: sans-serif;
+  overflow:hidden
+}
+
+.content-box
+{
+  width:90%;
+  height:60%;
+  font-size: 30px;
+  font-weight: normal;
+  text-align: center;
+  outline: 1px solid #d3d3d3;
+  position: absolute;
+  top:31%;
+  left: 5%;
+  overflow: hidden;
+
+}

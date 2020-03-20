@@ -1,0 +1,21 @@
+{
+  "title": "my presentation 1",
+  "id": ""
+  "slides" : [
+    {
+      "id": 1,
+      "compomnents" : [
+        {
+          "id": 1,
+          "data" : "",
+          "type" : "text",
+          "attributes": {
+            "isBold": 1,
+            ""
+          }
+        }
+      ]
+    },
+
+  ]
+}
